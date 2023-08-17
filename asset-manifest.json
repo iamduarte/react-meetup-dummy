@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-meetup-dummy/static/css/main.1eac6dd1.css",
+    "main.js": "/react-meetup-dummy/static/js/main.d6e48a00.js",
+    "index.html": "/react-meetup-dummy/index.html",
+    "main.1eac6dd1.css.map": "/react-meetup-dummy/static/css/main.1eac6dd1.css.map",
+    "main.d6e48a00.js.map": "/react-meetup-dummy/static/js/main.d6e48a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eac6dd1.css",
+    "static/js/main.d6e48a00.js"
+  ]
+}
