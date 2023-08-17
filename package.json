@@ -1,7 +1,7 @@
 {
   "name": "react-course",
   "version": "0.1.0",
-  "homepage": "https://github.com/ozzypt/react-meetup-dummy",
+  "homepage": "https://ozzypt.github.io/react-meetup-dummy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
