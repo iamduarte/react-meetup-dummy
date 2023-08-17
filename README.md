@@ -1,4 +1,4 @@
-# Dummy Meetup App
+# [Dummy Meetup App](https://ozzypt.github.io/react-meetup-dummy)
 
 This dummy app was done as a React refresh as part of a Next.js & React course on Udemy that can be found [here](https://www.udemy.com/course/nextjs-react-the-complete-guide/).
 
